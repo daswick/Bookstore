@@ -1,0 +1,86 @@
+body {
+	margin-left: 250px;
+	width: 1000px;
+	padding: 20px;
+	margin-right: 200px;
+}
+h2 {
+	background-color: #5e0e04;
+	display: flex;
+	color: white;
+    align-items: center;
+	font-family: "Arial";
+
+}
+h3 {
+	font-family: "Helvetica";
+}
+
+.bdiv {
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	padding: 50px;
+	text-align: center;
+
+}
+.addc {
+	text-align: center;	
+}
+a:link {
+	color: white;
+    text-decoration: none;
+}
+
+a:visited {
+	color: white;
+    text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+    text-decoration: none;
+}
+
+a:active {
+	color: gray;
+    text-decoration: none;
+}
+.ht {
+    padding: 15px;
+	font-size: 20px;
+	color: white;
+}
+.ct {
+	text-align: center;
+}
+.ct td {
+	padding: 15px;
+	vertical-align: top;
+}
+
+.bookt{
+	width:100%;
+	background-color: Gainsboro ;
+	border-radius: 20px;	
+}
+
+div#clist {
+	width:175%;
+	text-align: center;
+	background-color: Gainsboro ;
+	border-radius: 20px;
+}
+
+div#buttons {
+	text-align: center;	
+}
+.drop{
+	width: 200px;
+	height: 30px;
+}
+
+.stay {
+	vertical-align: top;
+	position: absolute;
+}
